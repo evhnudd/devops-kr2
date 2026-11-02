@@ -1,3 +1,4 @@
+# KR2: Sevostyanova
 import os
 import socket
 
